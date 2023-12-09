@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZeroTwo0001
-- 👀 I’m intedrested in ...Data engineer
+- 👀 I’m intedrested in ...Data Engineer
 - 🌱 I’m currently learning ... Bachelor of Engineering (Computer Engineering and
 Artificial Intelligence)
 - 💞️ I’m looking to collaborate on ...
